@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Fragments</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello fragment data</string>
+    <string name="hello_blank_fragment2">Hello fragment details</string>
+    <string name="btnSend">Send</string>
+    <string name="enterName">Enter Name</string>
+    <string name="messageEmpty">The field is required</string>
+</resources>

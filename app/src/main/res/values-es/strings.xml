@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Fragmentos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hola Fragmento Data</string>
+    <string name="hello_blank_fragment2">Hola Fragmento Details</string>
+    <string name="btnSend">Enviar</string>
+    <string name="enterName">Ingresa el nombre</string>
+    <string name="messageEmpty">El campo es requerido</string>
+</resources>
